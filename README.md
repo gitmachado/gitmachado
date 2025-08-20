@@ -1,5 +1,3 @@
-# If we can imagine it, we can do it. 🚀
-
 ### Hi, i'm Mauricio... 👋
 
 - 👨‍💻 A **Full-Stack** Developer with a deep interest in **technology** and **challenging projects**.
