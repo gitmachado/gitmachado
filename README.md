@@ -1,9 +1,7 @@
 ### Hi, i'm Mauricio... 👋
 
-- 👨‍💻 A **Full-Stack** Developer with a deep interest in **technology** and **challenging projects**.
-- 💡 Focused on **innovation**, **intelligent automation**, **cloud computing** and **cross-platform** development.  
-- 🌱 Currently learning: **Artificial Intelligence**, **Software Architectures** and **Clean Code**.
-- 🚀 Looking for opportunities to **grow as a developer** and contribute to **impactful solutions**.
+- 👨‍💻 A **Full-Stack** Developer with a deep enthusiasm for **technology** and **challenging projects**.
+- 💡 Interested in **intelligent automation**.  
 
 ### 🧠 Core Technologies
 
@@ -22,6 +20,10 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Google Play](https://img.shields.io/badge/-Google%20Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🌱 Currently learning:
+
+![Rust](https://img.shields.io/badge/Rust-F46623?style=for-the-badge&logo=rust&logoColor=white)
 
 🚀 Check out my featured projects:
 
@@ -58,10 +60,6 @@
 
 ### 🔐 Online Licensing System  
 - Access control via a **remote license server**  
-
-### 🎛️ Operations Dashboard  
-- Modern **dark mode interface**  
-- Detailed monitoring of interactions, profiles, metrics, and campaigns  
 
 >⚠️ This project is currently closed source.
 
