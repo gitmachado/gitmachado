@@ -24,6 +24,7 @@
 ### 🌱 Currently learning:
 
 ![Rust](https://img.shields.io/badge/Rust-F46623?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 🚀 Check out my featured projects:
 
