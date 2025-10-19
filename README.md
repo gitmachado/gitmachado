@@ -30,7 +30,7 @@
 
 🚀 Check out my featured projects:
 
-## 🗪 ClickChat - New connections just one click away
+## 🗪 ClickChat - New connections just one click away (2021-2022)
 
 ![Demo Click Chat Image](clickchat-demo-banner.png)
 
@@ -42,7 +42,7 @@
 - 💬 Emoji picker, dark/light mode, and push notifications  
 - 🎧 Future support for voice calls and end-to-end encryption  
 
-## 🤖 Kronos - Turn Your Discord Account into an Intelligent AI-Powered Bot  
+## 🤖 Kronos - Turn Your Discord Account into an Intelligent AI-Powered Bot (2025)  
 
 ![Demo Kronos Image](kronos-demo.gif)
 
