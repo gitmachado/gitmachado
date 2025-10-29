@@ -26,7 +26,7 @@
 ![Rust](https://img.shields.io/badge/Rust-F46623?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Move](https://img.shields.io/badge/-Move-4E44CE?style=for-the-badge&logo=sui&logoColor=white)
-![Motoko](https://img.shields.io/badge/-Motoko-29ABE2?style=for-the-badge&logo=internet-computer&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 🚀 Check out my featured projects:
 
