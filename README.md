@@ -1,7 +1,7 @@
 ### Hi, i'm Mauricio... 👋
 
 - 👨‍💻 A **Full-Stack** Developer with a deep enthusiasm for **technology** and **challenging projects**.
-- 💡 Interested in **intelligent automation**.  
+- 💡 Interested in **intelligent automation** and **Web3 technologies**.  
 
 ### 🧠 Core Technologies
 
