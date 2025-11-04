@@ -28,9 +28,9 @@
 ![Move](https://img.shields.io/badge/-Move-4E44CE?style=for-the-badge&logo=sui&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-🚀 Check out my featured projects:
+🚀 Check out my featured project:
 
-## 🗪 ClickChat - New connections just one click away (2021-2022)
+## 🗪 ClickChat - New connections just one click away
 
 ![Demo Click Chat Image](clickchat-demo-banner.png)
 
@@ -41,30 +41,6 @@
 - 🔊 Audio and image sharing  
 - 💬 Emoji picker, dark/light mode, and push notifications  
 - 🎧 Future support for voice calls and end-to-end encryption  
-
-## 🤖 Kronos - Turn Your Discord Account into an Intelligent AI-Powered Bot (2025)  
-
-![Demo Kronos Image](kronos-demo.gif)
-
-**Kronos** is a python system that transforms your **own Discord account** into an **AI-powered bot**, designed to **automatically generate engagement in servers** and help **crypto enthusiasts** earn more points and maximize rewards in **airdrop campaigns**.  
-
-## 🔑 Key Features  
-
-### 🤖 AI Automation for Engagement  
-- Turns your Discord account into an intelligent bot  
-- Automatically responds to mentions in **multiple languages**  
-- **Customizable interaction intervals** to simulate human behavior  
-- **Custom prompts** to define the AI’s personality and style  
-- Generate **complete predefined message profiles**, editable and multilingual  
-
-### 📈 Airdrop Campaign Management  
-- Integrated system to **organize and manage crypto airdrops**  
-- Smart automation to **earn more points** and improve ranking in projects  
-
-### 🔐 Online Licensing System  
-- Access control via a **remote license server**  
-
->⚠️ This project is currently closed source.
 
 ## Contact
 
