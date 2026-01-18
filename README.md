@@ -1,7 +1,6 @@
 ### Hi, i'm Mauricio... 👋
 
 - 👨‍💻 A **Full-Stack** Developer with a deep enthusiasm for **technology** and **challenging projects**.
-- 💡 Interested in **intelligent automation** and **Web3 technologies**.  
 
 ### 🧠 Core Technologies
 
@@ -20,11 +19,6 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Google Play](https://img.shields.io/badge/-Google%20Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🌱 Currently learning:
-
-![Rust](https://img.shields.io/badge/Rust-F46623?style=for-the-badge&logo=rust&logoColor=white)
-![Move](https://img.shields.io/badge/-Move-4E44CE?style=for-the-badge&logo=sui&logoColor=white)
 
 🚀 Check out my featured project:
 
